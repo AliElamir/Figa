@@ -1,2 +1,4 @@
 # Figa
-App
+App 
+
+Technologies: Flutter

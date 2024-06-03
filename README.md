@@ -1,4 +1,5 @@
 # Figa
-App 
 
 Technologies: Flutter
+
+Figa is texting app
